@@ -1,0 +1,9 @@
+device STM32H723VGTx
+if SWD
+speed 4000
+r
+h
+loadfile build/Debug/Control.elf
+r
+g
+q

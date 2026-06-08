@@ -1,0 +1,8 @@
+build/
+.idea/
+cmake-build-*/
+*.elf
+*.bin
+*.hex
+*.map
+*.list
